@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="connect">连接</string>
+    <string name="waiting_connection">等待连接</string>
+    <string name="send">发送</string>
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="ip_inputer">ip地址</string>
+</resources>
